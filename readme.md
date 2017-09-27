@@ -1,3 +1,3 @@
-A command line node application for getting weather information for a given location.
-Used http module.
-To run a program type - node app.js city (can also add state/country)
+A node.js command line application for web scraping (imdb.com).
+Used node.js http module and cheerio.
+To run a program type - node movie-search <moviename> 
